@@ -1,0 +1,19 @@
+
+
+1 types.js;
+2 import_export.js;
+3 write_operations.js;
+4 compare.js;
+5 constructions.js;
+6 buffer_methods.js;
+7 process.js;
+8 function.js;
+9 async.js;
+
+
+1 Kernel compilator ( Compilator language = (C -> perfobyte) ):
+    1.1 kernel_modules;
+    
+
+2 GivTak OS ( api for defining system modules ( drivers ) ):
+    2.1 modules;
